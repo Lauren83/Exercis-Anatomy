@@ -31,14 +31,8 @@
    * [D3](W3/D3.md)
    * [D4](W3/D4.md)
    * [D5](W3/D5.md)
+   * [D6](W3/D6.md)
     
-* [W4](W4/README.md)
-   * [D1](W4/D1.md)
-   * [D2](W4/D2.md)
-   * [D3](W4/D3.md)
-   * [D4](W4/D4.md)
-   * [D5](W4/D5.md)    
-   * [D5](W4/D6.md)    
 
 * [后记](no_end/postscript.md)
 
